@@ -25,13 +25,12 @@ Price: FREE! ($49 if you don't want popups asking you to buy it)
     Don't repeat yourself. Re-use code you write often. Some examples of things you can use snippets for are HTML boilerplate, for loops, long comment blocks, function declarations, etc.
 
 4.  **Themes**
-    -   Soda (light and dark)
-    -   Solarized
-    -   Flatland
+    -   [Soda (light and dark)](https://github.com/buymeasoda/soda-theme/)
+    -   [Flatland](https://github.com/thinkpixellab/flatland)
 
 5.  **Color Schemes**
-    -   Tomorrow Theme
-    -   Solarized
+    -   [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme)
+    -   [Solarized](http://ethanschoonover.com/solarized)
 
 6.  **Fonts**
     -   Inconsolata
