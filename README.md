@@ -12,7 +12,7 @@ Price: FREE! ($49 if you don't want popups asking you to buy it)
 1.  **Package Manager**  
     [Installation Link](https://sublime.wbond.net/installation#st2)
     
-    Package manager is the tool you use to add plugins and things to Sublime. Once installed, Access it with ⌘+Shift+P.
+    Package manager is the tool you use to add plugins and things to Sublime. Once installed, Access it with ⌘+Shift+P and type 'package controll'. You'll get a bunch of options; the one you'll want most often is 'install package'.
 
 2.  **Emmet**  
     [Documentation](http://docs.emmet.io/) (Install via Package Manager)
