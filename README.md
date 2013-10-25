@@ -52,7 +52,7 @@ You don't *have* to use Chrome, but we like it, and its extensions make your wor
 ### Chrome Extensions
 1. [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en)
 2. [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)
-3. [LiveReload](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en), we'll talk about that in a bit
+3. [LiveReload](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en), we'll talk about that in a bit.
 
 ### Web Developer Tools
 
@@ -66,6 +66,6 @@ It works with a number of css preprocessors (sass, less, stylus) as well as html
 
 ## Other (Mac) Apps
 
-1. [Alfred](http://alfredapp.com), the best app ever (FREE! but $25 for extra features)
-2. Frank DeLoupe, a color picker ($1)
-3. Divvy, a window manager ($14)
+1. **[Alfred](http://alfredapp.com)**, the best app ever (FREE! but $25 for extra features)
+2. **Frank DeLoupe**, a color picker ($1)
+3. **Divvy**, a window manager ($14)
