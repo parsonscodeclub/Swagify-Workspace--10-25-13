@@ -10,6 +10,9 @@ Get it here: http://www.sublimetext.com/
 Price: FREE! ($49 if you don't want popups asking you to buy it)
 
 1. Package Manager
+
+[Installation Link](https://sublime.wbond.net/installation#st2)
+
 2. Emmet
 3. Snippets
 4. Themes
