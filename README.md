@@ -76,8 +76,14 @@ It works with a number of css preprocessors (sass, less, stylus) as well as html
 ## Other (Mac) Apps
 
 1. **[Alfred](http://alfredapp.com)**, the best app ever (FREE! but $25 for extra features)
+    
     alternatively: [Quicksilver](http://qsapp.com/)
-2. **Frank DeLoupe**, a color picker ($1)
+
+2. **[Frank DeLoupe](https://itunes.apple.com/us/app/frank-deloupe/id530458789?mt=12)**, a color picker ($1)
+    
     alternatively: Digital Colormeter (OS X default Utility)
-3. **Divvy**, a window manager ($14)
-    alternatively: [Spectacle (free)](http://spectacleapp.com/), [Moom](http://manytricks.com/moom/) ($10)
+
+3. **[Divvy](http://mizage.com/divvy/)**, a window manager ($14)
+    
+    alternatively: [Spectacle](http://spectacleapp.com/)  (free), [Moom](http://manytricks.com/moom/) ($10)
+
