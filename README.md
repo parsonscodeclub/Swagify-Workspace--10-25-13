@@ -38,7 +38,7 @@ Price: FREE! ($49 if you don't want popups asking you to buy it)
     -   [Souce Code Pro](http://blogs.adobe.com/typblography/2012/09/source-code-pro.html)
 
 7. **Other Settings**
-    -   Grid lines
+    -   rulers
 
 
 
@@ -56,7 +56,16 @@ You don't *have* to use Chrome, but we like it, and its extensions make your wor
 
 ### Web Developer Tools
 
+You can do some cool stuff with Chrome's Web Inspector!
+*   check CSS syntax
+*   adjust values with up and down arrows
+*   check CSS :hover and :active states
+*   inspect network requests and responses
+*   change color units
 
+And in the near future, it'll have even more features:
+*   inspection of canvas drawings
+*   pseudo-elements
 
 ## LiveReload
 
