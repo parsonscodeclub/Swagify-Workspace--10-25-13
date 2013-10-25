@@ -1,5 +1,5 @@
 Code Club 10/25
-# Swagify Your Workspace!
+Swagify Your Workspace!
 ===========================
 
 Here's the software we'll talk about:
@@ -10,10 +10,10 @@ Get it here: http://www.sublimetext.com/
 
 Price: FREE!
 
-### Customize your Sublime!
+### Sublime Packages
 
-1. Package Manager
-2. Emmet
+To install packages, you have to get the Sublime Text Package Control: https://sublime.wbond.net/
+
 
 
 ## Alfred
