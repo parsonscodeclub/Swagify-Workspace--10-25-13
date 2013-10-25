@@ -1,4 +1,5 @@
-Swagify Your Workspace! Code Club 10/25
+Swagify Your Workspace!
+Code Club 10/25
 ===========================
 
 Here's the software we'll talk about:
@@ -6,6 +7,7 @@ Here's the software we'll talk about:
 ## Sublime Text 2
 
 Get it here: http://www.sublimetext.com/
+
 Price: FREE!
 
 ### Customize your Sublime!
@@ -17,4 +19,5 @@ Price: FREE!
 ## Alfred
 
 Get it here: http://www.alfredapp.com/
+
 Price: FREE! But extra features cost $25, and you should totally get them.
