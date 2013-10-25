@@ -8,11 +8,22 @@ Here's the software we'll talk about:
 
 Get it here: http://www.sublimetext.com/
 
-Price: FREE!
+Price: FREE! ($49 if you don't want popups asking you to buy it)
 
-### Sublime Packages
-
-To install packages, you have to get the Sublime Text Package Control: https://sublime.wbond.net/
+1. Package Manager
+2. Emmet
+3. Snippets
+4. Themes
+    - Soda (light and dark)
+    - Solarized
+    - Flatland
+5. Color Schemes
+    - Tomorrow Theme
+    - Solarized
+6. Fonts
+    - Inconsolata
+    - Fira Mono
+    - Souce Code Pro
 
 
 
