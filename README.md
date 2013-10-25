@@ -1,5 +1,5 @@
-Swagify Your Workspace!
 Code Club 10/25
+# Swagify Your Workspace!
 ===========================
 
 Here's the software we'll talk about:
