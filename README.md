@@ -10,27 +10,34 @@ Get it here: http://www.sublimetext.com/
 Price: FREE! ($49 if you don't want popups asking you to buy it)
 
 1.  Package Manager 
+    
     [Installation Link](https://sublime.wbond.net/installation#st2)
-
-    Package manager is the tool you use to add plugins and things to Sublime. Access it with ⌘+P.
+    
+    Package manager is the tool you use to add plugins and things to Sublime. Once installed, Access it with ⌘+P.
 
 2.  Emmet
+    
+    [Documentation](http://docs.emmet.io/)
+
+    (Install via Package Manager)
+
+    Emmet is a toolkit that makes writing HTML much easier and faster. 
 
 3.  Snippets
 
 4.  Themes
-    - Soda (light and dark)
-    - Solarized
-    - Flatland
+    -   Soda (light and dark)
+    -   Solarized
+    -   Flatland
 
 5.  Color Schemes
-    - Tomorrow Theme
-    - Solarized
+    -   Tomorrow Theme
+    -   Solarized
 
 6.  Fonts
-    - Inconsolata
-    - Fira Mono
-    - Souce Code Pro
+    -   Inconsolata
+    -   Fira Mono
+    -   Souce Code Pro
 
 
 
