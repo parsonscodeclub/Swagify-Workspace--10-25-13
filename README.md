@@ -87,3 +87,5 @@ It works with a number of css preprocessors (sass, less, stylus) as well as html
     
     alternatively: [Spectacle](http://spectacleapp.com/)  (free), [Moom](http://manytricks.com/moom/) ($10)
 
+4. **[Better touch tool](http://bettertouchtool.en.softonic.com/mac)**, for customizable trackpad shortcuts
+
