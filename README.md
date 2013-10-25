@@ -25,17 +25,20 @@ Price: FREE! ($49 if you don't want popups asking you to buy it)
     Don't repeat yourself. Re-use code you write often. Some examples of things you can use snippets for are HTML boilerplate, for loops, long comment blocks, function declarations, etc.
 
 4.  **Themes**
-    -   [Soda (light and dark)](https://github.com/buymeasoda/soda-theme/)
-    -   [Flatland](https://github.com/thinkpixellab/flatland)
+    -[Soda (light and dark)](https://github.com/buymeasoda/soda-theme/)
+    -[Flatland](https://github.com/thinkpixellab/flatland)
 
 5.  **Color Schemes**
-    -   [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme)
-    -   [Solarized](http://ethanschoonover.com/solarized)
+    -[Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme)
+    -[Solarized](http://ethanschoonover.com/solarized)
 
 6.  **Fonts**
-    -   Inconsolata
-    -   Fira Mono
-    -   Souce Code Pro
+    -[Inconsolata](http://www.levien.com/type/myfonts/inconsolata.html)
+    -[Fira Mono](https://github.com/buildingfirefoxos/Building-Blocks/tree/gh-pages/fonts/FiraSans)
+    -[Souce Code Pro](http://blogs.adobe.com/typblography/2012/09/source-code-pro.html)
+
+7. **Other Settings**
+    -Grid lines
 
 
 
