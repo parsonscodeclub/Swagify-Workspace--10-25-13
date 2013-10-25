@@ -26,6 +26,15 @@ Price: FREE! ($49 if you don't want popups asking you to buy it)
 
 
 
+## Chrome
+
+You don't *have* to use Chrome, but we like it, and its extensions make your workflow so much better.
+
+### WhatFont
+
+### Web Developer Tools
+
+
 ## Alfred
 
 Get it here: http://www.alfredapp.com/
