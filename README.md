@@ -9,19 +9,20 @@ Get it here: http://www.sublimetext.com/
 
 Price: FREE! ($49 if you don't want popups asking you to buy it)
 
-1.  **Package Manager**
-    
+1.  **Package Manager**  
     [Installation Link](https://sublime.wbond.net/installation#st2)
     
-    Package manager is the tool you use to add plugins and things to Sublime. Once installed, Access it with ⌘+P.
+    Package manager is the tool you use to add plugins and things to Sublime. Once installed, Access it with ⌘+Shift+P.
 
-2.  **Emmet**
-    
-    [Documentation](http://docs.emmet.io/)(Install via Package Manager)
+2.  **Emmet**  
+    [Documentation](http://docs.emmet.io/) (Install via Package Manager)
 
     Emmet is a toolkit that makes writing HTML much easier and faster. 
 
 3.  **Snippets**
+    http://sublimetext.info/docs/en/extensibility/snippets.html
+
+    Don't repeat yourself. Re-use code you write often. Some examples of things you can use snippets for are HTML boilerplate, for loops, long comment blocks, function declarations, etc.
 
 4.  **Themes**
     -   Soda (light and dark)
